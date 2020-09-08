@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "module": "esnext",
+    "target": "es5",
+    "lib": ["ES2015", "dom"],
+    "jsx": "react",
+    "allowSyntheticDefaultImports": true
+  }
+}
